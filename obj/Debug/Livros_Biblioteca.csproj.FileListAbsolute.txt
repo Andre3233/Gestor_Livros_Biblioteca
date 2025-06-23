@@ -1,0 +1,56 @@
+C:\Users\André\Desktop\PSI\M9\Projeto_Final_M9\bin\Debug\Projeto_Final_M9.exe.config
+C:\Users\André\Desktop\PSI\M9\Projeto_Final_M9\bin\Debug\Projeto_Final_M9.exe
+C:\Users\André\Desktop\PSI\M9\Projeto_Final_M9\bin\Debug\Projeto_Final_M9.pdb
+C:\Users\André\Desktop\PSI\M9\Projeto_Final_M9\obj\Debug\Projeto_Final_M9.csproj.AssemblyReference.cache
+C:\Users\André\Desktop\PSI\M9\Projeto_Final_M9\obj\Debug\Projeto_Final_M9.Disponiveis_e_Emprestados.resources
+C:\Users\André\Desktop\PSI\M9\Projeto_Final_M9\obj\Debug\Projeto_Final_M9.emprestimos.resources
+C:\Users\André\Desktop\PSI\M9\Projeto_Final_M9\obj\Debug\Projeto_Final_M9.Livros.resources
+C:\Users\André\Desktop\PSI\M9\Projeto_Final_M9\obj\Debug\Projeto_Final_M9.Menu.resources
+C:\Users\André\Desktop\PSI\M9\Projeto_Final_M9\obj\Debug\Projeto_Final_M9.Properties.Resources.resources
+C:\Users\André\Desktop\PSI\M9\Projeto_Final_M9\obj\Debug\Projeto_Final_M9.csproj.GenerateResource.cache
+C:\Users\André\Desktop\PSI\M9\Projeto_Final_M9\obj\Debug\Projeto_Final_M9.csproj.CoreCompileInputs.cache
+C:\Users\André\Desktop\PSI\M9\Projeto_Final_M9\obj\Debug\Projeto_Final_M9.exe
+C:\Users\André\Desktop\PSI\M9\Projeto_Final_M9\obj\Debug\Projeto_Final_M9.pdb
+C:\Users\André\Desktop\PSI\M9\Projeto_Final_M9\obj\Debug\Projeto_Final_M9.Adicionar.resources
+C:\Users\André\Downloads\Projeto_Final_M9\bin\Debug\Projeto_Final_M9.exe.config
+C:\Users\André\Downloads\Projeto_Final_M9\bin\Debug\Projeto_Final_M9.exe
+C:\Users\André\Downloads\Projeto_Final_M9\bin\Debug\Projeto_Final_M9.pdb
+C:\Users\André\Downloads\Projeto_Final_M9\obj\Debug\Projeto_Final_M9.csproj.AssemblyReference.cache
+C:\Users\André\Downloads\Projeto_Final_M9\obj\Debug\Projeto_Final_M9.Adicionar.resources
+C:\Users\André\Downloads\Projeto_Final_M9\obj\Debug\Projeto_Final_M9.emprestimos.resources
+C:\Users\André\Downloads\Projeto_Final_M9\obj\Debug\Projeto_Final_M9.Livros.resources
+C:\Users\André\Downloads\Projeto_Final_M9\obj\Debug\Projeto_Final_M9.Menu.resources
+C:\Users\André\Downloads\Projeto_Final_M9\obj\Debug\Projeto_Final_M9.Properties.Resources.resources
+C:\Users\André\Downloads\Projeto_Final_M9\obj\Debug\Projeto_Final_M9.csproj.GenerateResource.cache
+C:\Users\André\Downloads\Projeto_Final_M9\obj\Debug\Projeto_Final_M9.csproj.CoreCompileInputs.cache
+C:\Users\André\Downloads\Projeto_Final_M9\obj\Debug\Projeto_Final_M9.exe
+C:\Users\André\Downloads\Projeto_Final_M9\obj\Debug\Projeto_Final_M9.pdb
+C:\Users\André\Downloads\Projeto_Final_M9\obj\Debug\Projeto_Final_M9.Editar.resources
+C:\Users\André\Desktop\Nova pasta (2)\Livros_biblioteca\bin\Debug\Projeto_Final_M9.exe.config
+C:\Users\André\Desktop\Nova pasta (2)\Livros_biblioteca\bin\Debug\Projeto_Final_M9.exe
+C:\Users\André\Desktop\Nova pasta (2)\Livros_biblioteca\bin\Debug\Projeto_Final_M9.pdb
+C:\Users\André\Desktop\Nova pasta (2)\Livros_biblioteca\obj\Debug\Projeto_Final_M9.csproj.AssemblyReference.cache
+C:\Users\André\Desktop\Nova pasta (2)\Livros_biblioteca\obj\Debug\Projeto_Final_M9.Adicionar.resources
+C:\Users\André\Desktop\Nova pasta (2)\Livros_biblioteca\obj\Debug\Projeto_Final_M9.Editar.resources
+C:\Users\André\Desktop\Nova pasta (2)\Livros_biblioteca\obj\Debug\Projeto_Final_M9.emprestimos.resources
+C:\Users\André\Desktop\Nova pasta (2)\Livros_biblioteca\obj\Debug\Projeto_Final_M9.Livros.resources
+C:\Users\André\Desktop\Nova pasta (2)\Livros_biblioteca\obj\Debug\Projeto_Final_M9.Menu.resources
+C:\Users\André\Desktop\Nova pasta (2)\Livros_biblioteca\obj\Debug\Projeto_Final_M9.Properties.Resources.resources
+C:\Users\André\Desktop\Nova pasta (2)\Livros_biblioteca\obj\Debug\Projeto_Final_M9.csproj.GenerateResource.cache
+C:\Users\André\Desktop\Nova pasta (2)\Livros_biblioteca\obj\Debug\Projeto_Final_M9.csproj.CoreCompileInputs.cache
+C:\Users\André\Desktop\Nova pasta (2)\Livros_biblioteca\obj\Debug\Projeto_Final_M9.exe
+C:\Users\André\Desktop\Nova pasta (2)\Livros_biblioteca\obj\Debug\Projeto_Final_M9.pdb
+C:\Users\André\Desktop\GitHub\Biblioteca_Registro\Livros_Biblioteca\bin\Debug\Projeto_Final_M9.exe.config
+C:\Users\André\Desktop\GitHub\Biblioteca_Registro\Livros_Biblioteca\bin\Debug\Projeto_Final_M9.exe
+C:\Users\André\Desktop\GitHub\Biblioteca_Registro\Livros_Biblioteca\bin\Debug\Projeto_Final_M9.pdb
+C:\Users\André\Desktop\GitHub\Biblioteca_Registro\Livros_Biblioteca\obj\Debug\Livros_Biblioteca.csproj.AssemblyReference.cache
+C:\Users\André\Desktop\GitHub\Biblioteca_Registro\Livros_Biblioteca\obj\Debug\Projeto_Final_M9.Adicionar.resources
+C:\Users\André\Desktop\GitHub\Biblioteca_Registro\Livros_Biblioteca\obj\Debug\Projeto_Final_M9.Editar.resources
+C:\Users\André\Desktop\GitHub\Biblioteca_Registro\Livros_Biblioteca\obj\Debug\Projeto_Final_M9.emprestimos.resources
+C:\Users\André\Desktop\GitHub\Biblioteca_Registro\Livros_Biblioteca\obj\Debug\Projeto_Final_M9.Livros.resources
+C:\Users\André\Desktop\GitHub\Biblioteca_Registro\Livros_Biblioteca\obj\Debug\Projeto_Final_M9.Menu.resources
+C:\Users\André\Desktop\GitHub\Biblioteca_Registro\Livros_Biblioteca\obj\Debug\Projeto_Final_M9.Properties.Resources.resources
+C:\Users\André\Desktop\GitHub\Biblioteca_Registro\Livros_Biblioteca\obj\Debug\Livros_Biblioteca.csproj.GenerateResource.cache
+C:\Users\André\Desktop\GitHub\Biblioteca_Registro\Livros_Biblioteca\obj\Debug\Livros_Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\André\Desktop\GitHub\Biblioteca_Registro\Livros_Biblioteca\obj\Debug\Projeto_Final_M9.exe
+C:\Users\André\Desktop\GitHub\Biblioteca_Registro\Livros_Biblioteca\obj\Debug\Projeto_Final_M9.pdb
